@@ -131,12 +131,8 @@ The CSV file is created in the same directory where the script is executed. Chec
 This script is provided as-is for educational and administrative purposes. Please ensure compliance with your organization's security policies when using API-based tools.
 
 ## Support
-
-For issues related to:
-- **Aruba API**: Consult Aruba documentation or support
-- **Script functionality**: Review the troubleshooting section above
-- **Python dependencies**: Check Python package documentation
+NO SUPPORT
 
 ---
 
-**Note**: This tool is designed for network administrators managing Aruba wireless infrastructure. Ensure you have proper authorization before running scripts against production network equipment.
+
